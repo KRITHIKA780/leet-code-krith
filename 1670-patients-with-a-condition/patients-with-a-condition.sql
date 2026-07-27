@@ -1,5 +1,3 @@
-
-
 SELECT patient_id,
        patient_name,
        conditions
